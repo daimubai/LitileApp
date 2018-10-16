@@ -3,6 +3,7 @@
   First WXAPP!
 </text>
 <view class='container'>
+  <text>dev第二次提交分支</text>
   <image class='avatar' src='/images/avatar/13.gif'></image>
   <image class='avatar' src='/images/avatar/13.gif'></image>
   <image class='avatar' src='/images/avatar/13.gif'></image>
