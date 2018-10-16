@@ -5,6 +5,7 @@
 <view class='container'>
   <image class='avatar' src='/images/avatar/13.gif'></image>
   <image class='avatar' src='/images/avatar/13.gif'></image>
+  <image class='avatar' src='/images/avatar/13.gif'></image>
   <text class='motto'>Hello EveryOne</text>
   <view class='journey-container'>
       <text class='journey'>开启小程序之旅</text>
