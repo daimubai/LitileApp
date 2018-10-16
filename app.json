@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/welcome/welcome",
+    "pages/post/post"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ECC0A8", //颜色
+    "navigationBarTextStyle": "black", //字体颜色 black/white
+    "navigationBarTitleText": "快来点我", //文字内容
+    "backgroundColor": "#eeeeee", //窗口颜色
+    "backgroundTextStyle": "light", //下拉背景字体 dark/light
+    "enablePullDownRefresh": false //是否开启下拉刷新
+  }
+}
